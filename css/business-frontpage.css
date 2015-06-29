@@ -66,6 +66,11 @@ footer p{
     background-color: white;
 }
 
+body{
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
 @media screen and (max-width: 800px) {
     #contactInfoGroot{
         display: none;
