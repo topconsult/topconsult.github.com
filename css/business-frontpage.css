@@ -66,6 +66,10 @@ footer p{
     background-color: white;
 }
 
+#frameKaart{
+    height:400px;
+}
+
 body{
     overflow-x: hidden;
     overflow-y: scroll;
