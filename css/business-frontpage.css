@@ -57,6 +57,7 @@ footer p{
 
 .img-responsive{
     border: 1px solid lightgray;
+    max-width: 150%;
 }
 
 #contactInfoKlein{
