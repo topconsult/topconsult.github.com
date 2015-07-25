@@ -20,6 +20,7 @@ body {
     -o-background-size: cover;
 }
 
+
 nav a{
     color: lightgray;
 }
@@ -79,6 +80,15 @@ footer{
     position: absolute;
     bottom: 0px;
     width: 100%;
+}
+
+#containerMain{
+    padding-bottom: 100px;
+}
+
+.wrapper{
+	min-height:100%;
+	position:relative;
 }
 
 @media screen and (max-width: 800px) {
