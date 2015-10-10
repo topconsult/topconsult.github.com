@@ -44,10 +44,11 @@ nav a{
 
 footer {
     background-color: black;
+    width: 100%;
 }
 
 footer address{
-    width: 50%;
+    width: 65%;
     float: left;
     margin-left:5%;
     color: gray;
