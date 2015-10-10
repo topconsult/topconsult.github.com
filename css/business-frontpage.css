@@ -88,6 +88,10 @@ footer{
     width: 100%;
 }
 
+p.big{
+    line-height: 200%;
+}
+
 #containerMain{
     padding-bottom: 150px;
 }
